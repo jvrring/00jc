@@ -1,0 +1,13 @@
+body {
+    background-image: url("assets/00jc.png");
+    background-color: #ffffff;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain; /* or use "cover" if you want it to fill the screen */
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    justify-content: center;
+}
